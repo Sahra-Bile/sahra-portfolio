@@ -1,0 +1,15 @@
+header {
+  height: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+main {
+  height: calc(100vh - 175px);
+}
+
+footer {
+  height: 100px;
+}
